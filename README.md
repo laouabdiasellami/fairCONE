@@ -1,9 +1,9 @@
-to use a different dataset please change the dataset_type to hourly_wages for exemple :
 
+# to use a different dataset please change the dataset_type to hourly_wages for exemple :
 
 if __name__ == "__main__":
 
-    # Configure dataset
+    # configure datast
     
     dataset_type = "hourly_wages"  # Change this to "abalone" or "hourly_wages" as needed
     
