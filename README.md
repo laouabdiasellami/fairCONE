@@ -1,7 +1,7 @@
 
 # to use a different dataset please change the dataset_type to hourly_wages for exemple :
 
-if __name__ == "__main__":
+if --name--== "--main--":
 
     # configure datast
     
